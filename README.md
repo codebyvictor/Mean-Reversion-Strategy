@@ -8,7 +8,8 @@ The average price (trend) can be easily defined with a moving average. This algo
 ### Strategy
 If the price moves away from the moving average to the upside, the algorithm enters starting to open Sell/Short positions and Vice Versa if the price moves to the downside. 
 
-###
+### Connect to an external device for notification
+
 
 ## Backtest Conclusion
 It can be very simple to program a trading strategy that works. If you have further ideas to improve the algorithm, feel free to fork, implement and share or contact me. Hopefully, lots of people can make a lot of money or learn something about the financial markets :-)
