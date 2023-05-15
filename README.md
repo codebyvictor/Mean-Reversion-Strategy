@@ -6,9 +6,9 @@ Mean-reversion strategies work on the assumption that there is an underlying sta
 The average price (trend) can be easily defined with a moving average. This algorithm uses the simple moving average 90 and a daily timeframe
 
 ### Strategy
-If the price moves away from the moving average to the upside, the algorithm enters starting to open Sell/Short positions and Vice Versa if the price moves to the downside. 
 
-### Connect to an external device for notification
+
+### Connect to an external device to receive buy/sell signals
 
 
 ## Backtest Conclusion
