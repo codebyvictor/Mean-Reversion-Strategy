@@ -17,4 +17,4 @@ I ran the backtest on several equities. After analyzing the cumulative returns, 
 ### Limitations
 This strategy assumes no commissions or slippage. Furthermore, higher volatility also comes with higher downside risks. As a result, one cannot entirely rely on a technical analysis strategy. Company-specific news, brand sentiment, and macro trends also need to be considered.
 
-[![](/strategy graph.png)]
+[![](/strategy_graph.png)]
