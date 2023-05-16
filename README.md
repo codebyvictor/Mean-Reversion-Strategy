@@ -12,7 +12,7 @@ The algorithm will compare the stock's ratio (defined as the closing price divid
 At the time, my brokerage did not support algorithmic trading nor did it have any connected API. Thus, I used the external API "push safer" to receive daily phone notifications to manually buy, sell, or hold this strategy, with a report of its performance. The code ran at a specific time daily on a cloud-based system. 
 
 ## Backtest Conclusion
-I ran the backtest on several equities. After analyzing the cumulative returns, I observed that this strategy worked best for equities with high volatility. In the graph you see below, the mean-reversion strategy has been performed on a 3x leveraged ETF specialized in the semiconductor industry (SOXL and SOXS). As observed, the strategy outstandingly outperforms the buy & hold strategy with more than 250% returns over 12 months as compared to -70% for the buy & hold strategy.
+I ran the backtest on several equities. After analyzing the cumulative returns, I observed that this strategy worked best for equities with high volatility. In the graph you see below, the mean-reversion strategy has been performed on a 3x leveraged ETF specialized in the semiconductor industry (SOXL and SOXS). As observed, the strategy outstandingly outperforms the buy & hold strategy.
 
 ### Limitations
 This strategy assumes no commissions or slippage. Furthermore, higher volatility also comes with higher downside risks. As a result, one cannot entirely rely on a technical analysis strategy. Company-specific news, brand sentiment, and macro trends also need to be considered.
