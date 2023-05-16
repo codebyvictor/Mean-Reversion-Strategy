@@ -19,5 +19,5 @@ This strategy assumes no commissions or slippage. Furthermore, higher volatility
 
 <p align="center">
 
-[![](/strategy-graph.png)]
+![](/strategy-graph.png)
 </p>
