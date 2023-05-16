@@ -18,5 +18,5 @@ I ran the backtest on several equities. After analyzing the cumulative returns, 
 This strategy assumes no commissions or slippage. Furthermore, higher volatility also comes with higher downside risks. As a result, one cannot entirely rely on a technical analysis strategy. Company-specific news, brand sentiment, and macro trends also need to be considered.
 
 <p align="center">
-  <img src="https://github.com/codebyvictor/Mean-Reversion-Strategy/strategy-graph.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/codebyvictor/Mean-Reversion-Strategy/strategy-graph.png" alt="Sublime's custom image"/>
 </p>
